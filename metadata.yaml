@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25925'
     url: http://www.gutenberg.org/2009/agents/25925
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23587#Forty-Years-a-Gambler-on-the-Mississippi
 gutenberg_issued: '2007-11-22'
 gutenberg_type: Text
 identifiers:
