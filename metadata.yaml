@@ -1,0 +1,32 @@
+_repo: Forty-Years-a-Gambler-on-the-Mississippi_23587
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Devol, George H.
+    birthdate: 1829
+    deathdate: 1903
+    gutenberg_agent_id: '25925'
+    url: http://www.gutenberg.org/2009/agents/25925
+description: ''
+gutenberg_issued: '2007-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23587'
+  lccn: '07021512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mississippi River -- Description and travel'
+- !lcsh 'Gambling -- Mississippi River -- History -- 19th century'
+- !lcsh 'Gambling on river boats -- Mississippi River -- History -- 19th century'
+- !lcsh 'Frontier and pioneer life -- Mississippi River'
+- !lcc 'F350.5'
+- !lcsh 'Gamblers -- Mississippi River -- Biography'
+- !lcsh 'Devol, George H., 1829-1903'
+title: Forty Years a Gambler on the Mississippi
+url: http://www.gutenberg.org/ebooks/23587
